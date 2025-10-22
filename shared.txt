@@ -1,3 +1,6 @@
 First line in the shared file
+<<<<<<< HEAD
 Second line in the shared file
 Third line in the shared file
+Second line in the shared fileWed Oct 22 12:35:42 UTC 2025: Code Conflict
+>>>>>>> a95bd4805015f82c39f7a95c89d68c090178bfc6
